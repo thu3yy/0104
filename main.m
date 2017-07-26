@@ -1,8 +1,8 @@
 //
 //  main.m
-//  02-展示汽车数据
+//  01-UIScrollView的基本使用
 //
-//  Created by xiaomage on 16/1/7.
+//  Created by xiaomage on 16/1/4.
 //  Copyright © 2016年 小码哥. All rights reserved.
 //
 
